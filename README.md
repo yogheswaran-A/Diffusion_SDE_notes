@@ -32,6 +32,6 @@ https://yang-song.net/blog/2021/score/#score-based-generative-modeling-with-stoc
 ### ---------------------------------------------------------------------------------------------------------------------------
 
 #### https://ludwigwinkler.github.io/blog/
-#### https://scoste.fr/posts/diffusion/
+
 #### Slides :  https://ernestryu.com/courses/FM/diffusion1.pdf
 
