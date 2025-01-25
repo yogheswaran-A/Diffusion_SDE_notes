@@ -36,5 +36,5 @@ https://yang-song.net/blog/2021/score/#score-based-generative-modeling-with-stoc
 #### Slides :  https://ernestryu.com/courses/FM/diffusion1.pdf
 
 #### GOOD ONE:
- https://www.peterholderrieth.com/blog/2023/Diffusion-Models-with-Stochastic-Differential-Equations-A-Introduction-with-Self-Contained-Mathematical-Proofs/
- https://www.peterholderrieth.com/blog/2023/The-Fokker-Planck-Equation-and-Diffusion-Models/
+1] https://www.peterholderrieth.com/blog/2023/Diffusion-Models-with-Stochastic-Differential-Equations-A-Introduction-with-Self-Contained-Mathematical-Proofs/
+2] https://www.peterholderrieth.com/blog/2023/The-Fokker-Planck-Equation-and-Diffusion-Models/
