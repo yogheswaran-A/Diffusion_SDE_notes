@@ -35,6 +35,27 @@ https://yang-song.net/blog/2021/score/#score-based-generative-modeling-with-stoc
 
 #### Slides :  https://ernestryu.com/courses/FM/diffusion1.pdf
 
-#### GOOD ONE:
+#### MIT guys blog(did not read) :
 1] https://www.peterholderrieth.com/blog/2023/Diffusion-Models-with-Stochastic-Differential-Equations-A-Introduction-with-Self-Contained-Mathematical-Proofs/   
 2] https://www.peterholderrieth.com/blog/2023/The-Fokker-Planck-Equation-and-Diffusion-Models/
+
+#### Explanation with code:
+https://yang-song.net/blog/2021/score/
+
+#### MAIN paper.p(x(t)) Derivation of ODE equivalent of SDE. ODE and SDE with same p(x(t)). ODE and SDE have same p(x(t)) but the path x(t) follows is different for SDE and ODE.
+https://arxiv.org/pdf/2011.13456
+
+#### ODE and SDE interpretations
+https://www.youtube.com/watch?v=Ro4v4z8YAsk
+
+#### An introduction to Diffusion Probabilistic Models
+https://ayandas.me/blogs/2021-12-04-diffusion-prob-models.html
+
+#### Score-based Generative Models based on SDEs/ODEs 
+https://jmtomczak.github.io/blog/17/17_sbgms.html
+
+#### ICLR blog post
+https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/
+
+##### Diffusion models, SDE and its relationship to OU process
+https://scoste.fr/posts/diffusion/
