@@ -1,6 +1,6 @@
 # Diffusion Notes.
 
-#### https://www.reddit.com/r/MachineLearning/comments/169he26/d_how_to_learn_stochastic_differential_equations/
+#### Reddit link: https://www.reddit.com/r/MachineLearning/comments/169he26/d_how_to_learn_stochastic_differential_equations/
 ### ---------------------------------------------------------------------------------------------------------------------------
 I found this blog to be helpful, in terms of math:
 
