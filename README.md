@@ -36,14 +36,14 @@ https://yang-song.net/blog/2021/score/#score-based-generative-modeling-with-stoc
 #### Slides :  https://ernestryu.com/courses/FM/diffusion1.pdf
 
 #### Explanation with code(notebook is present as .ipynb file). Contains 
- 1] Numerical sampler, Predictor - corrector sampler, ODE sampler.
+ 1] Numerical sampler, Predictor - corrector sampler, ODE sampler.   
  2] SDEs that generally work well for images: the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and the sub-VP SDE. 
  3] And many more useful concepts.
 https://yang-song.net/blog/2021/score/
 ![image](https://github.com/user-attachments/assets/619fe0e7-45d0-4957-8430-f4837750002b)  
 paper in which the above proof is present: https://arxiv.org/pdf/2101.09258
 
-#### MAIN paper.p(x(t)) Derivation of ODE equivalent of SDE. ODE and SDE with same p(x(t)). ODE and SDE have same p(x(t)) but the path x(t) follows is different for SDE and ODE.
+#### MAIN paper. p(x(t)) Derivation of ODE equivalent of SDE. ODE and SDE with same p(x(t)). ODE and SDE have same p(x(t)) but the path x(t) follows is different for SDE and ODE.
 https://arxiv.org/pdf/2011.13456
 
 #### ODE and SDE interpretations
@@ -62,5 +62,5 @@ https://jmtomczak.github.io/blog/17/17_sbgms.html
 #### ICLR blog post
 https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/
 
-##### Diffusion models, SDE and its relationship to OU process
+#### Diffusion models, SDE and its relationship to OU process
 https://scoste.fr/posts/diffusion/
