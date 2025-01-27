@@ -1,5 +1,7 @@
 # Diffusion Notes.
 
+#### Google blog(pdf file is present), has many concepts. VAE, HAVE, diffuion, guidance etc, many useful concepts with proofs: https://calvinyluo.com/2022/08/26/diffusion-tutorial.html
+
 #### Reddit link: https://www.reddit.com/r/MachineLearning/comments/169he26/d_how_to_learn_stochastic_differential_equations/
 ### ---------------------------------------------------------------------------------------------------------------------------
 I found this blog to be helpful, in terms of math:
