@@ -31,15 +31,14 @@ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 https://yang-song.net/blog/2021/score/#score-based-generative-modeling-with-stochastic-differential-equations-sdes
 ### ---------------------------------------------------------------------------------------------------------------------------
 
-#### https://ludwigwinkler.github.io/blog/
+#### SDE concepts: https://ludwigwinkler.github.io/blog/
 
 #### Slides :  https://ernestryu.com/courses/FM/diffusion1.pdf
 
-#### MIT guys blog(did not read) : Also has three SDEs that generally work well for images: the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and the sub-VP SDE, codes to sample from these SDEs.
-1] https://www.peterholderrieth.com/blog/2023/Diffusion-Models-with-Stochastic-Differential-Equations-A-Introduction-with-Self-Contained-Mathematical-Proofs/   
-2] https://www.peterholderrieth.com/blog/2023/The-Fokker-Planck-Equation-and-Diffusion-Models/
-
-#### Explanation with code. Contains SDEs that generally work well for images: the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and the sub-VP SDE.
+#### Explanation with code(notebook is present as .ipynb file). Contains 
+ 1] Numerical sampler, Predictor - corrector sampler, ODE sampler.
+ 2] SDEs that generally work well for images: the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and the sub-VP SDE. 
+ 3] And many more useful concepts.
 https://yang-song.net/blog/2021/score/
 ![image](https://github.com/user-attachments/assets/619fe0e7-45d0-4957-8430-f4837750002b)  
 paper in which the above proof is present: https://arxiv.org/pdf/2101.09258
@@ -55,6 +54,10 @@ https://ayandas.me/blogs/2021-12-04-diffusion-prob-models.html
 
 #### Score-based Generative Models based on SDEs/ODEs 
 https://jmtomczak.github.io/blog/17/17_sbgms.html
+
+#### MIT guys blog(did not read) : Also has three SDEs that generally work well for images: the Variance Exploding SDE (VE SDE), the Variance Preserving SDE (VP SDE), and the sub-VP SDE, codes to sample from these SDEs.
+1] https://www.peterholderrieth.com/blog/2023/Diffusion-Models-with-Stochastic-Differential-Equations-A-Introduction-with-Self-Contained-Mathematical-Proofs/   
+2] https://www.peterholderrieth.com/blog/2023/The-Fokker-Planck-Equation-and-Diffusion-Models/
 
 #### ICLR blog post
 https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/
