@@ -15,7 +15,9 @@ https://ludwigwinkler.github.io/blog/SolvingSDEs/
 
 https://ludwigwinkler.github.io/blog/FokkerPlanck/
 
-https://ludwigwinkler.github.io/blog/Kramers/
+https://ludwigwinkler.github.io/blog/Kramers/   
+
+https://ludwigwinkler.github.io/blog/SimpleReverseSDE/     
 
 https://ludwigwinkler.github.io/blog/ReverseTimeAnderson/ - this one is about reverse time equation derivation, used in generative modeling
 
