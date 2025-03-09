@@ -71,3 +71,9 @@ https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/
 
 #### Diffusion models, SDE and its relationship to OU process
 https://scoste.fr/posts/diffusion/
+
+#### Huggingface blog DDPM
+https://huggingface.co/blog/annotated-diffusion
+
+#### Another blog
+https://goyalpramod.github.io/blogs/demysitifying_diffusion_models/
