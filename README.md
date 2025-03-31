@@ -82,3 +82,5 @@ https://goyalpramod.github.io/blogs/demysitifying_diffusion_models/
 https://en.wikipedia.org/wiki/Diffusion_model   
 
 #### Stanford course: https://deepgenerativemodels.github.io/syllabus.html
+
+#### berkeley course: https://sites.google.com/view/berkeley-cs294-158-sp24/home
