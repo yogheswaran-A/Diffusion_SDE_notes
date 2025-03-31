@@ -80,3 +80,5 @@ https://goyalpramod.github.io/blogs/demysitifying_diffusion_models/
 
 #### Wikipedia   
 https://en.wikipedia.org/wiki/Diffusion_model   
+
+#### Stanford course: https://deepgenerativemodels.github.io/syllabus.html
