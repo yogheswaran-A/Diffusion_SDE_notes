@@ -83,4 +83,9 @@ https://en.wikipedia.org/wiki/Diffusion_model
 
 #### Stanford course: https://deepgenerativemodels.github.io/syllabus.html
 
-#### berkeley course: https://sites.google.com/view/berkeley-cs294-158-sp24/home
+#### berkeley course: https://sites.google.com/view/berkeley-cs294-158-sp24/home    
+
+#### Diffusion Meets Flow Matching , Google blog: Two Sides of the Same Coin https://diffusionflow.github.io/   
+
+#### Paper: Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow.   
+#### Understanding InstaFlow/Rectified Flow: https://huggingface.co/blog/Isamu136/insta-rectified-flow
