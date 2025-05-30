@@ -87,5 +87,11 @@ https://en.wikipedia.org/wiki/Diffusion_model
 
 #### Diffusion Meets Flow Matching , Google blog: Two Sides of the Same Coin https://diffusionflow.github.io/   
 
-#### Paper: Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow.   
-#### Understanding InstaFlow/Rectified Flow: https://huggingface.co/blog/Isamu136/insta-rectified-flow
+#### Paper: Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow.     
+#### Official repo of the above paper: https://github.com/gnobitab/RectifiedFlow     
+#### Understanding InstaFlow/Rectified Flow: https://huggingface.co/blog/Isamu136/insta-rectified-flow    
+#### Code explanation blog: https://papers-100-lines.medium.com/unlock-the-secrets-of-stable-diffusion-3-mastering-diffusion-models-with-rectified-flow-1f79f6414832    
+
+#### Blog, Flow With What You Know: https://drscotthawley.github.io/blog/posts/FlowModels.html    
+
+#### Diffusion model perspective: https://sander.ai/2023/07/20/perspectives.html   
