@@ -90,6 +90,9 @@ https://en.wikipedia.org/wiki/Diffusion_model
 #### Paper: Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow.     
 #### Official repo of the above paper: https://github.com/gnobitab/RectifiedFlow     
 #### Understanding InstaFlow/Rectified Flow: https://huggingface.co/blog/Isamu136/insta-rectified-flow    
+#### Rectified flow, series of blogs: https://rectifiedflow.github.io/blog/2024/intro/   
+#### Code repo of the above series: https://github.com/lqiang67/rectified-flow   
+#### Lecture notes: https://www.cs.utexas.edu/~lqiang/PDF/flow_book.pdf   
 #### Code explanation blog: https://papers-100-lines.medium.com/unlock-the-secrets-of-stable-diffusion-3-mastering-diffusion-models-with-rectified-flow-1f79f6414832    
 
 #### Blog, Flow With What You Know: https://drscotthawley.github.io/blog/posts/FlowModels.html    
