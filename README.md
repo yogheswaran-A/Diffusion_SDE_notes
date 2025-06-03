@@ -98,3 +98,5 @@ https://en.wikipedia.org/wiki/Diffusion_model
 #### Blog, Flow With What You Know: https://drscotthawley.github.io/blog/posts/FlowModels.html    
 
 #### Diffusion model perspective: https://sander.ai/2023/07/20/perspectives.html   
+
+#### SDE Math: https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/    
