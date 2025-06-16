@@ -103,5 +103,9 @@ https://en.wikipedia.org/wiki/Diffusion_model
 
 #### The Illustrated Stable Diffusion: https://jalammar.github.io/illustrated-stable-diffusion/   
 
-#### [YT PLaylist] MIT 6.S184: Generative AI with Stochastic Differential Equations: https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH   
+#### [YT PLaylist] MIT 6.S184: Generative AI with Stochastic Differential Equations: https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH    
+
+#### Stable diffsuion from scratch: https://youtu.be/ZBKpAp_6TGI?si=KYZ6krcPGkz5MOJT   
+
+#### Stable diffusion 3 from scratch: https://youtu.be/S19zbVz3EYs?si=b33lyLIdWHzXEUF-
 
