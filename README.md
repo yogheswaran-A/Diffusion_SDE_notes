@@ -109,3 +109,8 @@ https://en.wikipedia.org/wiki/Diffusion_model
 
 #### Stable diffusion 3 from scratch: https://youtu.be/S19zbVz3EYs?si=b33lyLIdWHzXEUF-
 
+#### Upsampling: https://ericwiener.github.io/ai-notes/AI-Notes/Layers/Upsampling    
+
+#### Coding diffusion model from scratch : https://github.com/FareedKhan-dev/create-stable-diffusion-from-scratch   
+
+
