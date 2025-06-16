@@ -100,3 +100,8 @@ https://en.wikipedia.org/wiki/Diffusion_model
 #### Diffusion model perspective: https://sander.ai/2023/07/20/perspectives.html   
 
 #### SDE Math: https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/    
+
+#### The Illustrated Stable Diffusion: https://jalammar.github.io/illustrated-stable-diffusion/   
+
+#### [YT PLaylist] MIT 6.S184: Generative AI with Stochastic Differential Equations: https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH   
+
