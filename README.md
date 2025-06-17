@@ -95,7 +95,7 @@ https://en.wikipedia.org/wiki/Diffusion_model
 #### Lecture notes: https://www.cs.utexas.edu/~lqiang/PDF/flow_book.pdf   
 #### Code explanation blog: https://papers-100-lines.medium.com/unlock-the-secrets-of-stable-diffusion-3-mastering-diffusion-models-with-rectified-flow-1f79f6414832    
 
-#### Blog, Flow With What You Know: https://drscotthawley.github.io/blog/posts/FlowModels.html    
+#### Blog, Flow With What You Know, (sentence taken from it: flow matching and rectified flows being used interchangeably, but this is because they are the same) : https://drscotthawley.github.io/blog/posts/FlowModels.html    
 
 #### Diffusion model perspective: https://sander.ai/2023/07/20/perspectives.html   
 
