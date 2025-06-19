@@ -1,6 +1,8 @@
 # Diffusion Notes.
 
-#### Google blog(pdf file is present), has many concepts. VAE, HAVE, diffuion, guidance etc, many useful concepts with proofs: https://calvinyluo.com/2022/08/26/diffusion-tutorial.html
+#### Google blog(pdf file is present), has many concepts. VAE, HAVE, diffuion, guidance etc, many useful concepts with proofs: https://calvinyluo.com/2022/08/26/diffusion-tutorial.html    
+
+#### MIT, Introduction to Flow Matching and Diffusion Models: https://diffusion.csail.mit.edu/
 
 ### ---------------------------------------------------------------------------------------------------------------------------
 #### Reddit link: https://www.reddit.com/r/MachineLearning/comments/169he26/d_how_to_learn_stochastic_differential_equations/
