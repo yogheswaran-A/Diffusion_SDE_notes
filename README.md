@@ -115,4 +115,8 @@ https://en.wikipedia.org/wiki/Diffusion_model
 
 #### Coding diffusion model from scratch : https://github.com/FareedKhan-dev/create-stable-diffusion-from-scratch   
 
+#### Forward and reverse time -    
+<img width="612" height="209" alt="image" src="https://github.com/user-attachments/assets/20998689-754f-457b-a0c8-9c38516b2c18" />
+
+
 
